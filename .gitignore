@@ -1,3 +1,7 @@
+p
+test_credentials.json
+settings.yaml
+content/
 .coveragerc
 coverage.sh
 cov_html/
