@@ -5,7 +5,10 @@ import json, wget, yaml, time, random, os
 #   - do not download existing files
 #   - add username mention ( optional)
 #   - create subfolders per hashtag
-#   -
+#   - create subfolders per user
+#   - mention user&tag on video
+#   - create resolume deck/composition
+
 with open('settings.yaml') as settings:
     settings = yaml.load(settings)
 
